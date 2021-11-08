@@ -19,4 +19,4 @@ add_executable(
         acwing/basic/ch01/prefix_sum_difference/796/main.cpp
         acwing/basic/ch01/prefix_sum_difference/797/main.cpp
         acwing/basic/ch01/prefix_sum_difference/798/main.cpp
-        acwing/basic/ch01/double_pointer/799/main.cpp)
+        acwing/basic/ch01/double_pointer/799/main.cpp acwing/basic/ch01/double_pointer/800/main.cpp acwing/basic/ch01/double_pointer/2816/main.cpp)
